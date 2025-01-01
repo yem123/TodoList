@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Add from "./Add";
 import Tasks from "./Tasks";
 import Modal from "./Modal";
@@ -44,7 +44,7 @@ function App() {
           setEditTask={setEditTask} // Allows clearing the edit task when modal closes
         />
       )}
-      
+
       <Add handleAddTask={handleAddTask} />
     </div>
   );
