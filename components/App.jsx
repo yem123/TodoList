@@ -3,7 +3,7 @@ import Add from "./Add";
 import Tasks from "./Tasks";
 import Modal from "./Modal";
 import Export from "./Export";
-import Import from "./import";
+import Import from "./Import";
 import "../style.css";
 
 function App() {
