@@ -19,6 +19,12 @@ body {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
+h7 {
+  position: absolute;
+  font-size: xx-small;
+  top: 0;
+  left: 0;
+}
 .add {
   position: absolute;
   bottom: 20px;
