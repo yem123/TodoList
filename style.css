@@ -13,8 +13,7 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 20px;
-  background-color: blueviolet;
-    /*background-color: rgb(244, 244, 244);*/
+  background-color: rgb(244, 244, 244);
   border: 2px rgb(157, 175, 225);
   border-radius: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
